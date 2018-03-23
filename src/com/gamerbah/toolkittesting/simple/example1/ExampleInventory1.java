@@ -1,4 +1,4 @@
-package com.gamerbah.toolkittesting.simple;
+package com.gamerbah.toolkittesting.simple.example1;
 /* Created by GamerBah on 3/12/2018 */
 
 import com.gamerbah.inventorytoolkit.ClickEvent;
@@ -10,9 +10,9 @@ import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.Player;
 
-public class SimpleExample1 extends GameInventory {
+public class ExampleInventory1 extends GameInventory {
 
-    public SimpleExample1(Player player) {
+    public ExampleInventory1(Player player) {
         super("Name", 54);
 
         // Add a pagination-enabled search box from the first to the fourth row (slots 0-35)
