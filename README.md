@@ -1,5 +1,5 @@
  # InventoryToolkit-Examples
-A repo to show both simples and advanced usages of my [Inventory Toolkit for Spigot](https://www.spigotmc.org/resources/inventory-toolkit.54414/ "Inventory Toolkit's resource page").
+A repo to show both simple and advanced usages of my [Inventory Toolkit for Spigot](https://www.spigotmc.org/resources/inventory-toolkit.54414/ "Inventory Toolkit's resource page").
 
 **NOTE:** These examples are *purely* to show how this API can be used, and it's recommended to not copy the classes line-for-line, as they may not fit your exact needs. If the advanced example still don't suit your fancy, feel free to contact me for some help (although the advanced examples should be in the range of what everyone will need, we'll see when we get there).
 
